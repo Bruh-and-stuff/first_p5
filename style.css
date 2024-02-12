@@ -1,0 +1,21 @@
+body{
+    background-color:linen;
+}
+
+h1{
+    font-size: 75px;
+    font-style:bold;
+}
+
+#head_div{
+    margin-top:25px;
+}
+
+.non-canvas{
+    color: maroon;
+}
+
+canvas {
+    border:10px ridge rgb(145, 202, 221);
+    margin-left:390px;
+}
